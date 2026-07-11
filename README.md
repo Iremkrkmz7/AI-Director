@@ -126,4 +126,4 @@ Multiplayer support: separate director decisions per player
 
 
 
-Built with Unity 2022 · Python 3.9 · FastAPI<img width="1018" height="683" alt="Animation" src="https://github.com/user-attachments/assets/c05e417d-9576-4c18-8c46-057c0f9fdfd7" />
+Built with Unity 2022 · Python 3.9 · FastAPI
