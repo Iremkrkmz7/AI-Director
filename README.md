@@ -76,7 +76,7 @@ The decision and its effect are displayed in real-time on the game UI.
 - `director_logic` (inside `server.py`) — Rule-based decision engine
 ---
  
-## 🚀 How to Run
+##  How to Run
  
 ### 1. Start the Python Server
  
