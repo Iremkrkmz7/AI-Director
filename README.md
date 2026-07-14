@@ -1,4 +1,4 @@
-# 🧠 AI Director — Dynamic Difficulty System for Unity
+# 🧠 AI DIRECTOR — Dynamic Difficulty System for Unity
  
 A technical prototype that demonstrates a **real-time AI Director system** built on top of an existing Unity game. The AI Director runs on a Python backend, analyzes player performance metrics every 2 seconds, and sends commands back to Unity to dynamically adjust game difficulty.
  
