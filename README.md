@@ -10,6 +10,7 @@ A technical prototype that demonstrates a **real-time AI Director system** built
  
 <img width="1018" height="683" alt="Animation" src="https://github.com/user-attachments/assets/689fae37-0fb6-4bf9-a06a-55799d006e98" />
 ---
+
  
 ## 🏗️ Architecture
  
